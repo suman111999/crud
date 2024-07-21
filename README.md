@@ -1,0 +1,1 @@
+This repository is to explore different tech stak for crud applications.
